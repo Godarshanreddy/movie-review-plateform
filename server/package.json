@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Abhishek-BG/Movie-Rating-Web.git"
+    "url": "git+https://github.com/Godarshanreddy/movie-review-plateform.git"
   },
   "keywords": [
     "Web",
@@ -18,9 +18,9 @@
   "author": "Godarshanreddy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Abhishek-BG/Movie-Rating-Web/issues"
+    "url": "https://github.com/Godarshanreddy/movie-review-plateform/issues"
   },
-  "homepage": "https://github.com/Abhishek-BG/Movie-Rating-Web#readme",
+  "homepage": "https://github.com/Godarshanreddy/movie-review-plateform#readme",
   "dependencies": {
     "-": "^0.0.1",
     "axios": "^0.27.2",
